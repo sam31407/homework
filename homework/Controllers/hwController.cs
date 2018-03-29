@@ -11,6 +11,7 @@ namespace homework.Controllers
         // GET: hw
         public ActionResult Index()
         {
+            int a;
             return View();
         }
     }
